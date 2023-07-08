@@ -20,7 +20,6 @@ If you're looking for a dedicated React and Next.js developer who can also handl
 
 Skills: REACT / NEXT / JS / TS / HTML / CSS / NODE-JS 
 
-- 🔭 I’m currently working on this page. 
 
 
 
