@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Suyash Shakya
 #### I am a software developer with specialization in Typescript/Javascript
-![I am a software developer with specialization in Typescript/Javascript](https://lh3.googleusercontent.com/pw/AIL4fc868BFkd_JnMuMehdnIx6Pi2ZyPrL4jyGGSjyEcekJ35YLB_rdIOf8h_tWYfdoFgxN5oQQyQ4HDy_gDjQsyiyT0SMvVMWHptiM3TTVl8g6xfWRJ_xXg2ThlrsgdUiqgPD5gLfFdBf9gnwT35SzSAZFQrgMoQbUUfzh9SpHQxo8oW05PWW4NT3ogYujJD0c20QwXn4n0wLNfM_vum58va_JooaiAw2-8KRXu2aBbLfkn3CcIxHbrMKAKZzVpR0WOl0uyXceq8sABe4HuRp-Wa9AT4pMPBVGG6YmX8HMvM1yLNHc-0uyu5p8HmZuG3e9cGNm6pdlpN2S0m9jq1PnU1H9Kr6CFqPBr8LSgYgOx9CponQtyYTQcxaQX7yeTC-dX-nff5i72-gIqHkLlWuRb7lsRcE6XfupEg9ubGFK03_gaGwuBcwhdBbLd3nTVnTJIR6n_JPuBBimIFtwW05bkbsG7Vea0RiFpbwotof_QmyxRK9CHEctVAvKRVgKR8wUhXuaof-EVZM1JOnhletqc-0OXxgU_0wVsHAzuj0Y50EF-ysBWKEHuiH1g3fMdPmcIly5jua5-HQAFRHHs_tuhR0QMlB9bOcqU-Oh3U9zH_jUpmHcP5NXd_2zdL5QaBkBL8QWzO-aFDvbaTk_x0BJeq1-y6lQs4Vo0ivODJ27REf5Wv_RYD4uoBJfBl8LRobsAZVVaGcKdePAbS7PjiEIqw6gMvPji7C9YmoplHuaumwHKy-gvLgFzohUExm7xl_BOQnT4K3X_sj8b1gKtKoVS2rjUwAOe4eOnPPpFdcHnieFBZJAn9DmBKqIJzaYhN6i_78rpA56U8lISb72iMsDWorfDpTtPsquYEYw6BQVyijZJ6-dnfuIOuZggswiUekYNcobQToEiItHPNYns_Goix9PBpg=w547-h272-no?authuser=0)
+![I am a software developer with specialization in Typescript/Javascript](https://lh3.googleusercontent.com/pw/AIL4fc-Gs5NAflpz0a85CJYnmoUzIJ4JB_yxgU0CYgGkka-OJy7vdox9VfSHrVkntLPqyaLAOTE9sI-h7H1EXtj7fB93L-WMB9n4zmo_osvQ6xYK6OV6sTbPfem49bOsxMZUL9oEzhnYG8tL6kjXudI06eOymAfmf3WtCSaEG_sV4e52j1-H6K8OoPlKu53HKNIA4EZL4MPE51E1Flh7dNSc5Mll_OqmiafK_Er7QXDtknFN-k-xktkEQGaLee5TXyYfRieXhxzkFXLfbcMWyaUSUjb4DFAdHeDUGcN_3sQRuqZyV3IVnDBBuq8xZiPubcco3ia8jTFrI7wwZxhqOBu3Z9g7OP89c35BmU0bPwS0myj9WoePxpBFyI8smistvrx-QY2sdppZBeKrffM12M2wNRePd7Yha5bZ9tIaSinNP5cuGe5Gqkpnu53JQUZkGehvLqKvRvwkBpQWEDz0gGblbdYmW8uLuDXbPriwvFsOIc4WubQNNUvFxlP-5Vg3wD8izn8YPz6AXC_Z1qv-a3BpIFfW2rlHx315Er899F5yws7W_p6Xcx4BaqiBZG4JRrkuFAikB1QKYW5ltT13XRYzlfZtGnW_vs963RMVrbCEGQCW9mu1wJSpaj054rY03UV-lRukfXkEOy1uRsTc-E115O81s5aqUUhhdv91iKb0O5UfDTCqeo4cqBAo1cacjAa_hH04fag_fnXnISNArHRH1f4TsjfdCY7kMexYhqYg1FqM3sqHBhbx0NmWoJFlMw3Bw8j_gyTZN8kaU5cNuyLqVMsWUygDHYcittOrT4AkzY9nagcmwRAKvHXixAgfHpSukPcv2yYBi9zFA4sk4msCWQtCnQOnQYc_Gcesw2v-lmzCnwoifYNxBkka-CgZO3wQPnwpG03AYHQoxNigds_BJCa1gQ=w1359-h448-s-no?authuser=0)
 
 Hey there! I'm Suyash, a passionate developer specializing in React, Next.js, and with a solid understanding of Node.js. I have a keen eye for crafting visually stunning and user-friendly web applications while leveraging the power of these technologies.
 
@@ -19,8 +19,6 @@ Continuing education is a crucial part of my journey as a developer. I actively 
 If you're looking for a dedicated React and Next.js developer who can also handle some Node.js tasks, feel free to reach out. I'm excited to work on innovative projects and contribute to the success of your team. Let's bring your ideas to life
 
 Skills: REACT / NEXT / JS / TS / HTML / CSS / NODE-JS 
-
-- 🔭 I’m currently working on this page. 
 
 
 
