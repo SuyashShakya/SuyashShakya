@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Suyash Shakya
-#### I am a software developer with specialization in Javascript
-![I am a software developer with specialization in Javascript](https://scontent.fktm3-1.fna.fbcdn.net/v/t39.30808-6/349464395_1221196305250528_9180407074905168708_n.jpg?_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ULmOo-9rtdcAX9SIyp5&_nc_oc=AQkQVG9KGsRdyR4DfwlGoI-k9JnAbWeGBo1AdJevd5ys_Me4p68-qxwXOsDKQfxYVgM&_nc_ht=scontent.fktm3-1.fna&oh=00_AfDHfhcWnSzoFiU8sDPP9F3N8Tp2jjJMVl1AQU5wGwKizg&oe=64ADA63C)
+#### I am a software developer with specialization in Typescript/Javascript
+![I am a software developer with specialization in Typescript/Javascript](https://scontent.fktm3-1.fna.fbcdn.net/v/t39.30808-6/349464395_1221196305250528_9180407074905168708_n.jpg?_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ULmOo-9rtdcAX9SIyp5&_nc_oc=AQkQVG9KGsRdyR4DfwlGoI-k9JnAbWeGBo1AdJevd5ys_Me4p68-qxwXOsDKQfxYVgM&_nc_ht=scontent.fktm3-1.fna&oh=00_AfDHfhcWnSzoFiU8sDPP9F3N8Tp2jjJMVl1AQU5wGwKizg&oe=64ADA63C)
 
 Hey there! I'm Suyash, a passionate developer specializing in React, Next.js, and with a solid understanding of Node.js. I have a keen eye for crafting visually stunning and user-friendly web applications while leveraging the power of these technologies.
 
