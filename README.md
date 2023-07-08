@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Suyash Shakya
 #### I am a software developer with specialization in Typescript/Javascript
-![I am a software developer with specialization in Typescript/Javascript](https://scontent.fktm3-1.fna.fbcdn.net/v/t39.30808-6/349464395_1221196305250528_9180407074905168708_n.jpg?_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ULmOo-9rtdcAX9SIyp5&_nc_oc=AQkQVG9KGsRdyR4DfwlGoI-k9JnAbWeGBo1AdJevd5ys_Me4p68-qxwXOsDKQfxYVgM&_nc_ht=scontent.fktm3-1.fna&oh=00_AfDHfhcWnSzoFiU8sDPP9F3N8Tp2jjJMVl1AQU5wGwKizg&oe=64ADA63C)
+![I am a software developer with specialization in Typescript/Javascript](https://lh3.googleusercontent.com/pw/AIL4fc868BFkd_JnMuMehdnIx6Pi2ZyPrL4jyGGSjyEcekJ35YLB_rdIOf8h_tWYfdoFgxN5oQQyQ4HDy_gDjQsyiyT0SMvVMWHptiM3TTVl8g6xfWRJ_xXg2ThlrsgdUiqgPD5gLfFdBf9gnwT35SzSAZFQrgMoQbUUfzh9SpHQxo8oW05PWW4NT3ogYujJD0c20QwXn4n0wLNfM_vum58va_JooaiAw2-8KRXu2aBbLfkn3CcIxHbrMKAKZzVpR0WOl0uyXceq8sABe4HuRp-Wa9AT4pMPBVGG6YmX8HMvM1yLNHc-0uyu5p8HmZuG3e9cGNm6pdlpN2S0m9jq1PnU1H9Kr6CFqPBr8LSgYgOx9CponQtyYTQcxaQX7yeTC-dX-nff5i72-gIqHkLlWuRb7lsRcE6XfupEg9ubGFK03_gaGwuBcwhdBbLd3nTVnTJIR6n_JPuBBimIFtwW05bkbsG7Vea0RiFpbwotof_QmyxRK9CHEctVAvKRVgKR8wUhXuaof-EVZM1JOnhletqc-0OXxgU_0wVsHAzuj0Y50EF-ysBWKEHuiH1g3fMdPmcIly5jua5-HQAFRHHs_tuhR0QMlB9bOcqU-Oh3U9zH_jUpmHcP5NXd_2zdL5QaBkBL8QWzO-aFDvbaTk_x0BJeq1-y6lQs4Vo0ivODJ27REf5Wv_RYD4uoBJfBl8LRobsAZVVaGcKdePAbS7PjiEIqw6gMvPji7C9YmoplHuaumwHKy-gvLgFzohUExm7xl_BOQnT4K3X_sj8b1gKtKoVS2rjUwAOe4eOnPPpFdcHnieFBZJAn9DmBKqIJzaYhN6i_78rpA56U8lISb72iMsDWorfDpTtPsquYEYw6BQVyijZJ6-dnfuIOuZggswiUekYNcobQToEiItHPNYns_Goix9PBpg=w547-h272-no?authuser=0)
 
 Hey there! I'm Suyash, a passionate developer specializing in React, Next.js, and with a solid understanding of Node.js. I have a keen eye for crafting visually stunning and user-friendly web applications while leveraging the power of these technologies.
 
@@ -20,6 +20,7 @@ If you're looking for a dedicated React and Next.js developer who can also handl
 
 Skills: REACT / NEXT / JS / TS / HTML / CSS / NODE-JS 
 
+- 🔭 I’m currently working on this page. 
 
 
 
