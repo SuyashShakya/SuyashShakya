@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Suyash Shakya
 #### I am a software developer with specialization in Typescript/Javascript
-![I am a software developer with specialization in Typescript/Javascript](https://github.com/SuyashShakya/SuyashShakya/blob/main/Screenshot%202024-03-27%20at%2016.49.51.png?raw=true)
+![I am a software developer with specialization in Typescript/Javascript]
+/*(https://github.com/SuyashShakya/SuyashShakya/blob/main/Screenshot%202024-03-27%20at%2016.49.51.png?raw=true)*/
 
 
 Hey there! I'm Suyash, a passionate developer specializing in React, Next.js, and with a solid understanding of Node.js. I have a keen eye for crafting visually stunning and user-friendly web applications while leveraging the power of these technologies.
